@@ -9,7 +9,7 @@ fancybox: false
 
 # Sidebar
 sidebar: right
-widgets:
+widgets:  
 - tag
 - archive
 
