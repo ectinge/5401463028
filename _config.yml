@@ -7,14 +7,14 @@ title: '5401463028'
 subtitle: ''
 description: ''
 keywords:
-author: '5401463028'
+author: 5401463028
 language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://ectinge.github.io/5401463028
-root: /
+url: https://ectinge.github.io/5401463028
+root: /5401463028/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -99,5 +99,5 @@ theme: cactus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/ectinge/5401463028.git
+  repo: https://github.com/ectinge/5401463028
   branch: gh-pages
